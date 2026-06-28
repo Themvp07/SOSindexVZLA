@@ -13,6 +13,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 |---|---------------------|---------------------|--------|--------------------------|
 | 1 | [TeBusco](https://tebusco.app/) | Registro y localización de personas. Funciona offline. | Activo | [@campoconwifi](https://instagram.com/campoconwifi) |
 | 2 | [Venezuela Rescate](https://venezuelarescate.com/) | Reporte de zonas de emergencia, personas desaparecidas y pacientes en hospitales. Creado por Bomberos USB. | Activo | [@bomberosusb](https://instagram.com/bomberosusb) |
+| 3 | [TuIA911](https://tuia911.com/) | Triaje de emergencias con Inteligencia Artificial vía web y WhatsApp. | Activo | *Por verificar* |
+| 4 | [Rescate VE](https://rescate-ve.vercel.app/) | Directorio unificado de números de emergencia nacionales y regionales por estado. | Activo | *Por verificar* |
 
 ---
 
@@ -37,3 +39,21 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
     * 📱 Telegram/WhatsApp: *(Por verificar)*
 * **Estado Actual:** Activo y recibiendo reportes.
 * **Requerimiento Urgente:** *(Por verificar con el equipo / Coordinar con Yummy para el manejo logístico de insumos hacia los hospitales reportados).*
+
+### 3. TuIA911
+* **Enlace URL:** `https://tuia911.com/`
+* **Propósito:** Asistente virtual basado en Inteligencia Artificial para el triaje rápido de emergencias médicas, reporte de incidentes y primeros auxilios asistidos. Funciona a través de la web y cuenta con integración para atención automatizada por WhatsApp.
+* **Líder Técnico / Desarrollador:** *Por verificar*
+* **Vías de Contacto Directo:** 
+    * 📱 Telegram/WhatsApp: *(Por verificar)*
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar con Yummy para derivar casos de entrega de insumos médicos críticos detectados en el triaje).*
+
+### 4. Rescate VE
+* **Enlace URL:** `https://rescate-ve.vercel.app/`
+* **Propósito:** Directorio centralizado y optimizado para móviles con los números telefónicos de emergencia de Venezuela (Bomberos, Protección Civil, Policía, Cruz Roja, etc.), organizados a nivel nacional y específicos por cada estado del país.
+* **Líder Técnico / Desarrollador:** *Por verificar*
+* **Vías de Contacto Directo:** 
+    * 📱 Telegram/WhatsApp: *(Por verificar)*
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar con Yummy para asegurar la correcta difusión de las líneas oficiales de contacto de los centros donde operan como nodos logísticos).*
