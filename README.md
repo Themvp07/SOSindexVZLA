@@ -11,7 +11,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 
 | # | Nombre del Proyecto | Propósito Principal | Estado | Canal de Contacto Activo |
 |---|---------------------|---------------------|--------|--------------------------|
-| 1 | [TeBusco](https://tebusco.app/) | Registro y localización de personas. Funciona offline. | Activo | X: @campoconwifi |
+| 1 | [TeBusco](https://tebusco.app/) | Registro y localización de personas. Funciona offline. | Activo | [@campoconwifi](https://instagram.com/campoconwifi) |
 | 2 | [Ejemplo: Acopio]   | Mapa de centros de acopio | Caído  | WhatsApp: +58 412...     |
 
 ---
@@ -23,7 +23,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Propósito:** Registro y localización de personas afectadas. Permite reportar personas buscadas, heridas o a salvo, y funciona sin conexión a internet (guarda los datos localmente y los transmite automáticamente al recuperar la señal).
 * **Líder Técnico / Desarrollador:** Andrés Torres
 * **Vías de Contacto Directo:** 
-    * 📱 X (Twitter): `@campoconwifi`
+    * 📸 Instagram: [@campoconwifi](https://instagram.com/campoconwifi)
     * 📱 Telegram/WhatsApp: *(Por verificar)*
 * **Estado Actual:** Activo y transmitiendo datos.
 * **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar con Yummy para sincronizar listas de personas ubicadas).*
