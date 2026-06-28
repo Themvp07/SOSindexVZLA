@@ -81,12 +81,12 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Requerimiento Urgente:** *(Por verificar con el equipo encargado / Coordinar con Yummy para evaluar compatibilidad con sus flujos de recaudación o soporte logístico).*
 
 ### 7. Venezuela Te Busca
-* **Enlace URL:** `https://venezuelatebusca.com/`
-* **Propósito:** Iniciativa ciudadana, voluntaria y sin fines de lucro para ayudar a localizar a las personas desaparecidas tras el terremoto de 2026.
-* **Líder Técnico / Desarrollador:** *[Pendiente]*
-* **Vías de Contacto Directo:** 
-    * *[Pendiente]*
-* **Estado Actual:** *[Pendiente]*
-* **Requerimiento Urgente:** *[Pendiente]*
+### 1. Venezuela Te Busca
+* **Enlace URL:** `https://venezuelatebusca.com`
+* **Propósito:** Plataforma centralizada para el registro y localización de personas desaparecidas tras la emergencia sísmica en Venezuela. Permite registrar nuevos casos, filtrar por estado (por localizar/localizada), y visualizar información detallada de cada persona incluyendo nombre, cédula, edad, género, última ubicación conocida y fecha de registro.
+* **Líder Técnico / Desarrollador:** Por verificar
+* **Vías de Contacto Directo:** Por verificar (el sitio utiliza un widget de chat Chatwoot que indica "Estamos ausentes en este momento")
+* **Estado Actual:** Activo (última actualización registrada: hace 1 minuto)
+* **Requerimiento Urgente:** Por verificar
 
 * 
