@@ -16,6 +16,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 3 | [TuIA911](https://tuia911.com/) | Triaje de emergencias con Inteligencia Artificial vía web y WhatsApp. | Activo | *Por verificar* |
 | 4 | [Rescate VE](https://rescate-ve.vercel.app/) | Centro de mando con mapa de emergencias, reporte de desaparecidos, búsqueda de personas/hospitales y logística de traslados. | Activo | *Por verificar* |
 | 5 | [TrackDonations](https://www.trackdonations.xyz/) | Seguimiento y trazabilidad pública de donaciones e insumos recibidos. | Activo | [GitHub Repository](https://github.com/jamoran1356/trackdon) |
+| 6 | [Dona Venezuela](https://www.donavenezuela.com/?lang=es) | Donaciones y redes de pago para canalizar recursos económicos de apoyo ante el sismo. | Activo | *Por verificar* |
+| 7 | [Venezuela Te Busca](https://venezuelatebusca.com/) | Iniciativa ciudadana, voluntaria y sin fines de lucro para ayudar a localizar a las personas desaparecidas tras el terremoto de 2026. | *[PENDIENTE]* | *[PENDIENTE]* |
 
 
 ---
@@ -68,3 +70,23 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
     * 📱 Telegram/WhatsApp: *(Por verificar)*
 * **Estado Actual:** Activo.
 * **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar urgentemente con Yummy para integrar su sistema de entregas con esta plataforma de trazabilidad de insumos).*
+
+### 6. Dona Venezuela
+* **Enlace URL:** `https://www.donavenezuela.com/?lang=es`
+* **Propósito:** Plataforma financiera y pasarela de recaudación orientada a gestionar donaciones económicas y habilitar redes de pago para canalizar recursos hacia la respuesta de emergencia.
+* **Líder Técnico / Desarrollador:** *Por verificar*
+* **Vías de Contacto Directo:** 
+    * 📱 Telegram/WhatsApp: *(Por verificar)*
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** *(Por verificar con el equipo encargado / Coordinar con Yummy para evaluar compatibilidad con sus flujos de recaudación o soporte logístico).*
+
+### 7. Venezuela Te Busca
+* **Enlace URL:** `https://venezuelatebusca.com/`
+* **Propósito:** Iniciativa ciudadana, voluntaria y sin fines de lucro para ayudar a localizar a las personas desaparecidas tras el terremoto de 2026.
+* **Líder Técnico / Desarrollador:** *[Pendiente]*
+* **Vías de Contacto Directo:** 
+    * *[Pendiente]*
+* **Estado Actual:** *[Pendiente]*
+* **Requerimiento Urgente:** *[Pendiente]*
+
+* 
