@@ -14,7 +14,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 1 | [TeBusco](https://tebusco.app/) | Registro y localización de personas. Funciona offline. | Activo | [@campoconwifi](https://instagram.com/campoconwifi) |
 | 2 | [Venezuela Rescate](https://venezuelarescate.com/) | Reporte de zonas de emergencia, personas desaparecidas y pacientes en hospitales. Creado por Bomberos USB. | Activo | [@bomberosusb](https://instagram.com/bomberosusb) |
 | 3 | [TuIA911](https://tuia911.com/) | Triaje de emergencias con Inteligencia Artificial vía web y WhatsApp. | Activo | *Por verificar* |
-| 4 | [Rescate VE](https://rescate-ve.vercel.app/) | Directorio unificado de números de emergencia nacionales y regionales por estado. | Activo | *Por verificar* |
+| 4 | [Rescate VE](https://rescate-ve.vercel.app/) | Centro de mando con mapa de emergencias, reporte de desaparecidos, búsqueda de personas/hospitales y logística de traslados. | Activo | *Por verificar* |
+
 
 ---
 
@@ -51,9 +52,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 
 ### 4. Rescate VE
 * **Enlace URL:** `https://rescate-ve.vercel.app/`
-* **Propósito:** Directorio centralizado y optimizado para móviles con los números telefónicos de emergencia de Venezuela (Bomberos, Protección Civil, Policía, Cruz Roja, etc.), organizados a nivel nacional y específicos por cada estado del país.
+* **Propósito:** Centro de mando interactivo que incluye un mapa de emergencias, formulario para reportar personas desaparecidas, buscador de personas u hospitales, sección de logística/traslados y directorio de números de rescate inmediat0.
 * **Líder Técnico / Desarrollador:** *Por verificar*
-* **Vías de Contacto Directo:** 
-    * 📱 Telegram/WhatsApp: *(Por verificar)*
+* **Vías de Contacto Directo:** * 📱 Telegram/WhatsApp: *(Por verificar)*
 * **Estado Actual:** Activo.
-* **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar con Yummy para asegurar la correcta difusión de las líneas oficiales de contacto de los centros donde operan como nodos logísticos).*
+* **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar con Yummy para la integración del módulo de logística y traslados con su flota de distribución).*
