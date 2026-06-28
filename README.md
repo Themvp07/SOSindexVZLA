@@ -12,7 +12,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | # | Nombre del Proyecto | Propósito Principal | Estado | Canal de Contacto Activo |
 |---|---------------------|---------------------|--------|--------------------------|
 | 1 | [TeBusco](https://tebusco.app/) | Registro y localización de personas. Funciona offline. | Activo | [@campoconwifi](https://instagram.com/campoconwifi) |
-| 2 | [Ejemplo: Acopio]   | Mapa de centros de acopio | Caído  | WhatsApp: +58 412...     |
+| 2 | [Venezuela Rescate](https://venezuelarescate.com/) | Reporte de zonas de emergencia, personas desaparecidas y pacientes en hospitales. Creado por Bomberos USB. | Activo | [@bomberosusb](https://instagram.com/bomberosusb) |
 
 ---
 
@@ -28,6 +28,12 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Estado Actual:** Activo y transmitiendo datos.
 * **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar con Yummy para sincronizar listas de personas ubicadas).*
 
-### 2. [Nombre de la Página 2]
-*   **Enlace URL:** `...`
-... [Replicar para las 19 páginas]
+### 2. Venezuela Rescate
+* **Enlace URL:** `https://venezuelarescate.com/`
+* **Propósito:** Red ciudadana gestionada para reportar zonas de emergencia (derrumbes, heridos, atrapados), registrar o buscar personas desaparecidas/encontradas, y consultar el listado consolidado de pacientes en hospitales.
+* **Líder Técnico / Desarrollador:** Bomberos USB
+* **Vías de Contacto Directo:** 
+    * 📸 Instagram: [@bomberosusb](https://instagram.com/bomberosusb)
+    * 📱 Telegram/WhatsApp: *(Por verificar)*
+* **Estado Actual:** Activo y recibiendo reportes.
+* **Requerimiento Urgente:** *(Por verificar con el equipo / Coordinar con Yummy para el manejo logístico de insumos hacia los hospitales reportados).*
