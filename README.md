@@ -11,23 +11,22 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 
 | # | Nombre del Proyecto | Propósito Principal | Estado | Canal de Contacto Activo |
 |---|---------------------|---------------------|--------|--------------------------|
-| 1 | [Ejemplo: Buscador] | Localización de personas | Activo | Telegram: @Dev_Ejemplo   |
+| 1 | [TeBusco](https://tebusco.app/) | Registro y localización de personas. Funciona offline. | Activo | X: @campoconwifi |
 | 2 | [Ejemplo: Acopio]   | Mapa de centros de acopio | Caído  | WhatsApp: +58 412...     |
 
 ---
 
 ## 🌐 Detalle de las Páginas y Contactos
 
-### 1. [Nombre de la Página 1]
-*   **Enlace URL:** `https://enlace-de-la-pagina.com`
-*   **Propósito:** (Ej: Registro de personas desaparecidas / Reporte de daños estructurales).
-*   **Líder Técnico / Desarrollador:** Nombre o Alias.
-*   **Vías de Contacto Directo:** 
-    *   📱 Telegram/WhatsApp:
-    *   📧 Correo electrónico:
-    *   💻 Repositorio de código (si aplica):
-*   **Estado Actual:** (Activo / En mantenimiento / Necesita Servidor o Infraestructura).
-*   **Requerimiento Urgente:** (Ej: Necesita validadores de datos, integración con API de Yummy, hosting).
+### 1. TeBusco
+* **Enlace URL:** `https://tebusco.app/`
+* **Propósito:** Registro y localización de personas afectadas. Permite reportar personas buscadas, heridas o a salvo, y funciona sin conexión a internet (guarda los datos localmente y los transmite automáticamente al recuperar la señal).
+* **Líder Técnico / Desarrollador:** Andrés Torres
+* **Vías de Contacto Directo:** 
+    * 📱 X (Twitter): `@campoconwifi`
+    * 📱 Telegram/WhatsApp: *(Por verificar)*
+* **Estado Actual:** Activo y transmitiendo datos.
+* **Requerimiento Urgente:** *(Por verificar con el dev / Coordinar con Yummy para sincronizar listas de personas ubicadas).*
 
 ### 2. [Nombre de la Página 2]
 *   **Enlace URL:** `...`
