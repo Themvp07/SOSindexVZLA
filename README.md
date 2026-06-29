@@ -24,6 +24,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 11 | [Unidos Venezuela](https://unidosvenezuela.vercel.app/) | Plataforma web para solicitar rescate en emergencia de Venezuela. | Activo | Web:(https://kadent.studio/) |
 | 12 | [Venezuela Terremoto 2026 - Mapa](https://venezuelaterremoto2026.com/mapa) | Mapa interactivo que conecta necesidades de ayuda (agua, medicinas, refugio, rescate) con recursos disponibles tras el terremoto. | Activo | [@_luisald en X](https://x.com/_luisald) |
 | 13 | [Terremoto Venezuela](https://terremotovenezuela.app/) | Reporte de emergencias, refugios, suministros y personas desaparecidas ante el sismo. | Activo | [info@terremotovenezuela.app](mailto:info@terremotovenezuela.app) |
+| 14 | [Venezuela Earthquake Map (https://www.sismovenezuela.com/) | Mapa interactivo de visualización de daños, edificios colapsados y puntos de interés como centros de acopio, con detalle por reporte de cada estructura afectada. | Activo | https://github.com/nochinxx/venezuela-earthquake-map |
+
 
 
 
@@ -156,3 +158,13 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
     * 𝕏 Andrés G.: [@andresg747](https://x.com/andresg747)
 * **Estado Actual:** Activo.
 * **Requerimiento Urgente:** Contactar al equipo técnico a través de su canal de X o correo para coordinar la integración de los datos de refugios y solicitudes de suministros con la red logística y de entrega de Yummy.
+
+### 14. Venezuela Earthquake Map (Bitupx)
+* **Enlace URL:** `https://www.sismovenezuela.com/`
+* **Propósito:** Proyecto de mapa interactivo para la visualización de daños ocasionados por el sismo en Venezuela. Permite ubicar y explorar puntos de interés como centros de acopio, edificios colapsados y reportes individuales de daños estructurales por edificio, con información detallada por cada incidente registrado en el mapa.
+* **Líder Técnico / Desarrollador:** Bitupx (usuario: @mariojllesca)
+* **Vías de Contacto Directo:**
+  * **X (Twitter):** https://x.com/mariojllesca
+  * **GitHub:** https://github.com/nochinxx/venezuela-earthquake-map
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** Plataforma de visualización geoespacial de daños y reportes ciudadanos para apoyar la coordinación de respuesta ante la emergencia sísmica.
