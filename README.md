@@ -31,6 +31,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 18 | [REDH AVAPRE](https://redh.avapre.com/) | Directorio de ayuda y mapa interactivo de centros de acopio, hospitales, nodos de internet y necesidades. | Activo | *Por verificar* |
 | 19 |  [Mapa de Daños Venezuela](https://terremotovenezuela.com/) | Centraliza información sobre edificios, residencias, hospitales, escuelas, comercios y otras construcciones afectadas por el terremoto del 24 de junio de 2026 en Venezuela. | Por verificar | [@mariangelli](https://x.com/mariangelli) |
 | 20 | [Red de Ayuda Venezuela](https://redayudavenezuela.com/) | Web informativa de incidencias relevantes: búsqueda y registro de desaparecidos, personas en hospitales, reporte de niños, denuncia de irregularidades, puntos de ayuda, voluntariado, centros de acopio, reporte de réplicas/sismos recientes y teléfonos de emergencia. | Activo | Por verificar |
+| 21 | [SOS Venezuela 2026](https://sosvenezuela2026.com/) | Mapa colaborativo en tiempo real del terremoto: reportes de daños/colapsos, búsqueda de desaparecidos, validación de daños, registro de niños, primeros auxilios y canal comunitario. | Activo | [@7uanF](https://x.com/7uanF) |
 
 
 
@@ -219,10 +220,18 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Estado Actual:** Por verificar
 * **Requerimiento Urgente:** Por verificar
 
-### 2. Red de Ayuda Venezuela
+### 20. Red de Ayuda Venezuela
 * **Enlace URL:** [`https://redayudavenezuela.com/`](https://redayudavenezuela.com/)
 * **Propósito:** Web informativa de incidencias relevantes tras la emergencia sísmica. Ofrece: búsqueda y registro de personas desaparecidas; consulta de personas ingresadas en hospitales; reporte de niños; denuncia de irregularidades; localización de puntos de ayuda; registro de voluntariado; ubicación de centros de acopio; reporte de réplicas y sismos recientes; y teléfonos de emergencia.
 * **Líder Técnico / Desarrollador:** Por verificar
 * **Vías de Contacto Directo:** Por verificar
 * **Estado Actual:** Por verificar
 * **Requerimiento Urgente:** Por verificar
+
+### 21. SOS Venezuela 2026
+* **Enlace URL:** [`https://sosvenezuela2026.com/`](https://sosvenezuela2026.com/)
+* **Propósito:** Mapa colaborativo en tiempo real del terremoto en Venezuela. Ofrece: reporte de daños y colapsos (edificios, gas, vías bloqueadas, personas atrapadas); búsqueda de personas desaparecidas por cédula, teléfono o nombre con avisos en tiempo real; validación de daños por residentes e ingenieros; registro de niños; 12 guías de primeros auxilios basadas en Cruz Roja, OMS y FEMA, disponibles sin conexión; canal comunitario de información verificada; y balance de la emergencia con cifras preliminares (USGS) y confirmadas. Indica que las coordenadas exactas nunca se comparten públicamente (protección anti-saqueo).
+* **Líder Técnico / Desarrollador:** Responsable identificado por el usuario como @7uanF (la web en sí no revela nombre, alias ni equipo en su código/contenido; solo dice ser *"un venezolano que sabe programar"*).
+* **Vías de Contacto Directo:** [https://x.com/7uanF](https://x.com/7uanF)
+* **Estado Actual:** Activo (la página muestra contadores "En vivo" de reportes, críticos y usuarios en línea).
+* **Requerimiento Urgente:** Por verificar (solo menciona que las donaciones son opcionales para "cubrir costos del servidor", sin especificar una necesidad técnica urgente).
