@@ -25,10 +25,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 12 | [Venezuela Terremoto 2026 - Mapa](https://venezuelaterremoto2026.com/mapa) | Mapa interactivo que conecta necesidades de ayuda (agua, medicinas, refugio, rescate) con recursos disponibles tras el terremoto. | Activo | [@_luisald en X](https://x.com/_luisald) |
 | 13 | [Terremoto Venezuela](https://terremotovenezuela.app/) | Reporte de emergencias, refugios, suministros y personas desaparecidas ante el sismo. | Activo | [info@terremotovenezuela.app](mailto:info@terremotovenezuela.app) |
 | 14 | [Venezuela Earthquake Map (https://www.sismovenezuela.com/) | Mapa interactivo de visualización de daños, edificios colapsados y puntos de interés como centros de acopio, con detalle por reporte de cada estructura afectada. | Activo | https://github.com/nochinxx/venezuela-earthquake-map |
-
-
-
-
+| 15 | [Desaparecidos Terremoto Venezuela](https://desaparecidosterremotovenezuela.com/) | Plataforma ciudadana para identificar y reportar personas desaparecidas tras el sismo del 24 de junio de 2026 en Venezuela. | Activo | [developer@theempire.tech](mailto:developer@theempire.tech) |
 
 
 ---
@@ -168,3 +165,14 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
   * **GitHub:** https://github.com/nochinxx/venezuela-earthquake-map
 * **Estado Actual:** Activo.
 * **Requerimiento Urgente:** Plataforma de visualización geoespacial de daños y reportes ciudadanos para apoyar la coordinación de respuesta ante la emergencia sísmica.
+
+### 15. Desaparecidos Terremoto Venezuela
+* **Enlace URL:** `https://desaparecidosterremotovenezuela.com/`
+* **Propósito:** Plataforma de emergencia para reconectar familias tras el terremoto del 24 de junio. Permite dos acciones principales: (1) Identificar a una persona que se reconozca en un hospital, refugio o centro para marcarla como localizada, y (2) Reportar a alguien desaparecido proporcionando nombre y última ubicación conocida. Muestra estadísticas en tiempo real Incluye filtros por estado (Sin contacto, Localizados, En hospital, En centro) y proporciona teléfonos de emergencia para Caracas (911 CANTV, Movilnet, Digitel, Movistar).
+* **Líder Técnico / Desarrollador:** Por verificar
+* **Vías de Contacto Directo:** 
+  - Correo electrónico: [developer@theempire.tech](mailto:developer@theempire.tech)
+  - X: [@ReporteSismoVe](https://x.com/ReporteSismoVe)
+  - Instagram: [@terremotovenezuelaredes](https://instagram.com/terremotovenezuelaredes)
+* **Estado Actual:** Activo (plataforma en operación con actualizaciones recientes al 27 de junio de 2026)
+* **Requerimiento Urgente:** Por verificar (el sitio solicita identificar personas en el padrón y reportar desaparecidos, pero no menciona requerimientos técnicos específicos del proyecto)
