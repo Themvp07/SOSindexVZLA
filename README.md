@@ -29,6 +29,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 16 | [Hospitales en Venezuela](https://hospitalesenvenezuela.com/) | App gratuita para encontrar a familiares ingresados en hospitales o centros de salud tras el sismo. | Activo | Por verificar |
 | 17 | [VEA 2026](https://www.vea2026.com/) | Registro comunitario para ayudar a familias a encontrar personas desaparecidas o confirmar que ya aparecieron tras el terremoto. | Activo | Por verificar |
 | 18 | [REDH AVAPRE](https://redh.avapre.com/) | Directorio de ayuda y mapa interactivo de centros de acopio, hospitales, nodos de internet y necesidades. | Activo | *Por verificar* |
+| 19 |  [Mapa de Daños Venezuela](https://terremotovenezuela.com/) | Centraliza información sobre edificios, residencias, hospitales, escuelas, comercios y otras construcciones afectadas por el terremoto del 24 de junio de 2026 en Venezuela. | Por verificar | [@mariangelli](https://x.com/mariangelli) |
 
 
 
@@ -206,3 +207,11 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
     * 📱 Telegram/WhatsApp: *(Por verificar)*
 * **Estado Actual:** Activo.
 * **Requerimiento Urgente:** Sincronizar el mapa de necesidades urgentes e insumos de los hospitales con el equipo de Yummy para dar prioridad de traslado y despacho de suministros críticos a las instituciones médicas con mayor desabastecimiento.
+
+### 19. Mapa de Daños Venezuela
+* **Enlace URL:** [`https://terremotovenezuela.com/`](https://terremotovenezuela.com/)
+* **Propósito:** Centraliza información sobre edificios, residencias, hospitales, escuelas, comercios y otras construcciones afectadas por el terremoto ocurrido en Venezuela el 24 de junio de 2026. Busca ofrecer un punto de consulta donde ciudadanos, familiares, medios y organizaciones puedan conocer el estado de los edificios reportados y registrar nuevos daños estructurales, consolidando la información de la emergencia en un solo lugar.
+* **Líder Técnico / Desarrollador:** mariangelli (@mariangelli)
+* **Vías de Contacto Directo:** [https://x.com/mariangelli](https://x.com/mariangelli)
+* **Estado Actual:** Por verificar
+* **Requerimiento Urgente:** Por verificar
