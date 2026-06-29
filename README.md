@@ -20,6 +20,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 7 | [Venezuela Te Busca](https://venezuelatebusca.com/) | Iniciativa ciudadana, voluntaria y sin fines de lucro para ayudar a localizar a las personas desaparecidas tras el terremoto de 2026. | *[PENDIENTE]* | *[PENDIENTE]* |
 | 8 | [ReportaVNZLA](https://reportavnzla.com) | Plataforma ciudadana para registrar y consultar información sobre personas afectadas y recursos relacionados con la emergencia sísmica en Venezuela. | Activo | [mbitupx@gmail.com](mailto:mbitupx@gmail.com) · https://github.com/bitupx00/reportavnzla |
 | 9 | [Rescata Venezuela](https://www.rescatavenezuela.com/) | Plataforma colaborativa de emergencias para reportar, buscar y coordinar ayuda humanitaria durante el terremoto en Venezuela. | Activo | https://www.rescatavenezuela.com/ |
+| 10 | [Venezuela Te Necesita](https://www.venezuelatenecesita.com/) | Directorio centralizado y verificado de centros de acopio nacionales e internacionales para ayuda humanitaria tras el terremoto en Venezuela 2026. | Activo | X: [@venezuelatenecesita](https://x.com/RedAyudaVE) |
 
 
 
@@ -110,4 +111,11 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Estado Actual:** Activo.
 * **Requerimiento Urgente:** El proyecto es de código abierto e invita a la comunidad a contribuir mediante su repositorio de GitHub. También promueve la integración de datos mediante su API pública.
 
-
+### 10. Venezuela Te Necesita
+* **Enlace URL:** `https://www.venezuelatenecesita.com/`
+* **Propósito:** Directorio centralizado 100% verificado de centros de acopio para ayuda humanitaria tras el terremoto en Venezuela 2026. Ofrece un mapa interactivo de Venezuela y buscador para localizar puntos autorizados de recolección de agua, alimentos, medicinas y ropa. Incluye secciones diferenciadas para: registro de personas desaparecidas (Prioridad Crítica), registro de mascotas perdidas/encontradas (Apoyo a Animales), donaciones económicas (Apoyo Solidario), y logística de centros de acopio nacionales e internacionales. Actualmente muestra 133 centros registrados en todo el país y el extranjero.
+* **Líder Técnico / Desarrollador:** Por verificar
+* **Vías de Contacto Directo:** 
+  - X: [@venezuelatenecesita](https://x.com/RedAyudaVE)
+* **Estado Actual:** Activo (133 centros de acopio verificados registrados, con información actualizada de necesidades urgentes por centro).
+* **Requerimiento Urgente:** Por verificar a nivel del proyecto (cada centro de acopio individual lista sus propias necesidades específicas como medicinas, agua potable, alimentos no perecederos, artículos de bebé, linternas, baterías, etc.).
