@@ -21,6 +21,10 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 8 | [ReportaVNZLA](https://reportavnzla.com) | Plataforma ciudadana para registrar y consultar información sobre personas afectadas y recursos relacionados con la emergencia sísmica en Venezuela. | Activo | [mbitupx@gmail.com](mailto:mbitupx@gmail.com) · https://github.com/bitupx00/reportavnzla |
 | 9 | [Rescata Venezuela](https://www.rescatavenezuela.com/) | Plataforma colaborativa de emergencias para reportar, buscar y coordinar ayuda humanitaria durante el terremoto en Venezuela. | Activo | https://www.rescatavenezuela.com/ |
 | 10 | [Venezuela Te Necesita](https://www.venezuelatenecesita.com/) | Directorio centralizado y verificado de centros de acopio nacionales e internacionales para ayuda humanitaria tras el terremoto en Venezuela 2026. | Activo | X: [@venezuelatenecesita](https://x.com/RedAyudaVE) |
+| 11 | [Unidos Venezuela](https://unidosvenezuela.vercel.app/) | Plataforma web para solicitar rescate en emergencia de Venezuela. | Activo | Web:(https://kadent.studio/) |
+| 12 | [Venezuela Terremoto 2026 - Mapa](https://venezuelaterremoto2026.com/mapa) | Mapa interactivo que conecta necesidades de ayuda (agua, medicinas, refugio, rescate) con recursos disponibles tras el terremoto. | Activo | [@_luisald en X](https://x.com/_luisald) |
+
+
 
 
 
@@ -119,3 +123,22 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
   - X: [@venezuelatenecesita](https://x.com/RedAyudaVE)
 * **Estado Actual:** Activo (133 centros de acopio verificados registrados, con información actualizada de necesidades urgentes por centro).
 * **Requerimiento Urgente:** Por verificar a nivel del proyecto (cada centro de acopio individual lista sus propias necesidades específicas como medicinas, agua potable, alimentos no perecederos, artículos de bebé, linternas, baterías, etc.).
+
+### 11. Venezuela Rescate
+* **Enlace URL:** `https://unidosvenezuela.vercel.app/`
+* **Propósito:** Plataforma web para solicitar rescate en emergencia de Venezuela que incluye ubicación en mapa del sitio d erescate.
+* **Líder Técnico / Desarrollador:**  Kadent Studio
+* **Vías de Contacto Directo:** 
+    * Web: [ Kadent Studio](https://instagram.com/bomberosusb) (enlace caido)
+* **Estado Actual:** Activo y recibiendo reportes.
+* **Requerimiento Urgente:** *(Por verificar con el equipo / Coordinar con Yummy para el manejo logístico de insumos hacia los hospitales reportados).*
+
+### 12. Venezuela Terremoto 2026 - Mapa
+* **Enlace URL:** `https://venezuelaterremoto2026.com/mapa`
+* **Propósito:** Plataforma gratuita que conecta a quienes necesitan ayuda con quienes pueden ofrecerla tras el terremoto en Venezuela. Ofrece un mapa interactivo con geolocalización de: necesidades urgentes (76 registros), recursos disponibles (28 registros), refugios habilitados (13 registros), personas reportadas (720 registros), y puntos de acopio (291 registros). Permite filtrar por tipo de ayuda: agua, medicinas, alimentos, refugio, rescate, ropa, y atención médica. Incluye función para recibir avisos de emergencia.
+* **Líder Técnico / Desarrollador:** Luis Lucena (@_luisald) - Ingeniero, matemático y emprendedor venezolano.
+* **Vías de Contacto Directo:** 
+  - X: [@_luisald](https://x.com/_luisald)
+  - Por verificar (no se encontró correo electrónico ni repositorio GitHub público específico del proyecto en la página)
+* **Estado Actual:** Activo (mapa en tiempo real con datos actualizados, última verificación: junio 2026).
+* **Requerimiento Urgente:** Por verificar (el mapa muestra necesidades específicas por ubicación como agua 💧, medicinas 💊, alimentos 🍲, refugio 🏠, pero no hay texto explícito sobre requerimientos técnicos del proyecto).
