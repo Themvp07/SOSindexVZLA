@@ -18,6 +18,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 5 | [TrackDonations](https://www.trackdonations.xyz/) | Seguimiento y trazabilidad pública de donaciones e insumos recibidos. | Activo | [GitHub Repository](https://github.com/jamoran1356/trackdon) |
 | 6 | [Dona Venezuela](https://www.donavenezuela.com/?lang=es) | Donaciones y redes de pago para canalizar recursos económicos de apoyo ante el sismo. | Activo | *Por verificar* |
 | 7 | [Venezuela Te Busca](https://venezuelatebusca.com/) | Iniciativa ciudadana, voluntaria y sin fines de lucro para ayudar a localizar a las personas desaparecidas tras el terremoto de 2026. | *[PENDIENTE]* | *[PENDIENTE]* |
+| 8 | [ReportaVNZLA](https://reportavnzla.com) | Plataforma ciudadana para registrar y consultar información sobre personas afectadas y recursos relacionados con la emergencia sísmica en Venezuela. | Activo | [mbitupx@gmail.com](mailto:mbitupx@gmail.com) · https://github.com/bitupx00/reportavnzla |
 
 
 ---
@@ -81,7 +82,6 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Requerimiento Urgente:** *(Por verificar con el equipo encargado / Coordinar con Yummy para evaluar compatibilidad con sus flujos de recaudación o soporte logístico).*
 
 ### 7. Venezuela Te Busca
-### 1. Venezuela Te Busca
 * **Enlace URL:** `https://venezuelatebusca.com`
 * **Propósito:** Plataforma centralizada para el registro y localización de personas desaparecidas tras la emergencia sísmica en Venezuela. Permite registrar nuevos casos, filtrar por estado (por localizar/localizada), y visualizar información detallada de cada persona incluyendo nombre, cédula, edad, género, última ubicación conocida y fecha de registro.
 * **Líder Técnico / Desarrollador:** Por verificar
@@ -89,4 +89,14 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Estado Actual:** Activo (última actualización registrada: hace 1 minuto)
 * **Requerimiento Urgente:** Por verificar
 
-* 
+### 8. ReportaVNZLA
+* **Enlace URL:** `https://reportavnzla.com`
+* **Propósito:** Plataforma ciudadana y de código abierto desarrollada para centralizar información durante la emergencia sísmica en Venezuela. Permite registrar y consultar personas desaparecidas, localizadas y fallecidas, realizar búsquedas por nombre o cédula, visualizar estadísticas en tiempo real, consultar un mapa de afectaciones, registrar centros de acopio y estructuras afectadas, acceder a recursos de ayuda y utilizar una API pública para la integración de información por terceros.
+* **Líder Técnico / Desarrollador:** BitUpX (GitHub: https://github.com/bitupx00)
+* **Vías de Contacto Directo:**
+  * **Correo electrónico:** [mbitupx@gmail.com](mailto:mbitupx@gmail.com)
+  * **Repositorio GitHub:** https://github.com/bitupx00/reportavnzla
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** El proyecto es de código abierto e invita a la comunidad a contribuir mediante su repositorio de GitHub. También promueve la integración de datos mediante su API pública.
+
+
