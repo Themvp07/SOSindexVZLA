@@ -28,6 +28,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 15 | [Desaparecidos Terremoto Venezuela](https://desaparecidosterremotovenezuela.com/) | Plataforma ciudadana para identificar y reportar personas desaparecidas tras el sismo del 24 de junio de 2026 en Venezuela. | Activo | [developer@theempire.tech](mailto:developer@theempire.tech) |
 | 16 | [Hospitales en Venezuela](https://hospitalesenvenezuela.com/) | App gratuita para encontrar a familiares ingresados en hospitales o centros de salud tras el sismo. | Activo | Por verificar |
 | 17 | [VEA 2026](https://www.vea2026.com/) | Registro comunitario para ayudar a familias a encontrar personas desaparecidas o confirmar que ya aparecieron tras el terremoto. | Activo | Por verificar |
+| 18 | [REDH AVAPRE](https://redh.avapre.com/) | Directorio de ayuda y mapa interactivo de centros de acopio, hospitales, nodos de internet y necesidades. | Activo | *Por verificar* |
 
 
 
@@ -196,3 +197,12 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Vías de Contacto Directo:** Por verificar (no se encontraron correos electrónicos, GitHub, ni redes sociales del proyecto en el sitio. Solo se muestran números telefónicos de contacto para casos específicos de personas desaparecidas)
 * **Estado Actual:** Activo (base de datos en operación con registros actualizados)
 * **Requerimiento Urgente:** Por verificar (el sitio solicita reportar información sobre personas desaparecidas, pero no menciona requerimientos técnicos específicos del proyecto)
+
+### 18. REDH AVAPRE
+* **Enlace URL:** `https://redh.avapre.com/`
+* **Propósito:** Directorio unificado de ayuda ante la emergencia. Cuenta con un mapa interactivo para localizar centros de acopio, hospitales operativos, nodos de conexión a internet activos y un registro de necesidades urgentes e insumos médicos requeridos en los centros de salud.
+* **Líder Técnico / Desarrollador:** *Por verificar*
+* **Vías de Contacto Directo:** 
+    * 📱 Telegram/WhatsApp: *(Por verificar)*
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** Sincronizar el mapa de necesidades urgentes e insumos de los hospitales con el equipo de Yummy para dar prioridad de traslado y despacho de suministros críticos a las instituciones médicas con mayor desabastecimiento.
