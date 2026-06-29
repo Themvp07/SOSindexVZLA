@@ -27,6 +27,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 14 | [Venezuela Earthquake Map (https://www.sismovenezuela.com/) | Mapa interactivo de visualización de daños, edificios colapsados y puntos de interés como centros de acopio, con detalle por reporte de cada estructura afectada. | Activo | https://github.com/nochinxx/venezuela-earthquake-map |
 | 15 | [Desaparecidos Terremoto Venezuela](https://desaparecidosterremotovenezuela.com/) | Plataforma ciudadana para identificar y reportar personas desaparecidas tras el sismo del 24 de junio de 2026 en Venezuela. | Activo | [developer@theempire.tech](mailto:developer@theempire.tech) |
 | 16 | [Hospitales en Venezuela](https://hospitalesenvenezuela.com/) | App gratuita para encontrar a familiares ingresados en hospitales o centros de salud tras el sismo. | Activo | Por verificar |
+| 17 | [VEA 2026](https://www.vea2026.com/) | Registro comunitario para ayudar a familias a encontrar personas desaparecidas o confirmar que ya aparecieron tras el terremoto. | Activo | Por verificar |
+
 
 
 
@@ -186,3 +188,11 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Vías de Contacto Directo:** Por verificar (no se encontraron correos electrónicos, GitHub, ni redes sociales explícitas en el sitio). 
 * **Estado Actual:** Activo (22,193 personas registradas, 587 voluntarios activos, 6 encontradas por su familia, 1 dada de alta).
 * **Requerimiento Urgente:** Por verificar (el sitio indica que los datos son ingresados por voluntarios de la comunidad y no garantiza su exactitud, recomendando confirmar llamando al centro antes de trasladar a un paciente).
+
+### 17. VEA 2026
+* **Enlace URL:** `https://www.vea2026.com/`
+* **Propósito:** Registro comunitario para ayudar a familias a encontrar personas desaparecidas o confirmar que ya aparecieron tras el terremoto del 24 de junio de 2026. Permite reportar personas desaparecidas y buscar en la base de datos. Muestra estadísticas. Cada registro incluye información detallada: nombre, edad, género, cédula, última ubicación conocida, fecha de desaparición, y números de contacto específicos de la familia para reportar avistamientos.
+* **Líder Técnico / Desarrollador:** Por verificar
+* **Vías de Contacto Directo:** Por verificar (no se encontraron correos electrónicos, GitHub, ni redes sociales del proyecto en el sitio. Solo se muestran números telefónicos de contacto para casos específicos de personas desaparecidas)
+* **Estado Actual:** Activo (base de datos en operación con registros actualizados)
+* **Requerimiento Urgente:** Por verificar (el sitio solicita reportar información sobre personas desaparecidas, pero no menciona requerimientos técnicos específicos del proyecto)
