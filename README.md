@@ -23,6 +23,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 10 | [Venezuela Te Necesita](https://www.venezuelatenecesita.com/) | Directorio centralizado y verificado de centros de acopio nacionales e internacionales para ayuda humanitaria tras el terremoto en Venezuela 2026. | Activo | X: [@venezuelatenecesita](https://x.com/RedAyudaVE) |
 | 11 | [Unidos Venezuela](https://unidosvenezuela.vercel.app/) | Plataforma web para solicitar rescate en emergencia de Venezuela. | Activo | Web:(https://kadent.studio/) |
 | 12 | [Venezuela Terremoto 2026 - Mapa](https://venezuelaterremoto2026.com/mapa) | Mapa interactivo que conecta necesidades de ayuda (agua, medicinas, refugio, rescate) con recursos disponibles tras el terremoto. | Activo | [@_luisald en X](https://x.com/_luisald) |
+| 13 | [Terremoto Venezuela](https://terremotovenezuela.app/) | Reporte de emergencias, refugios, suministros y personas desaparecidas ante el sismo. | Activo | [info@terremotovenezuela.app](mailto:info@terremotovenezuela.app) |
 
 
 
@@ -142,3 +143,16 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
   - Por verificar (no se encontró correo electrónico ni repositorio GitHub público específico del proyecto en la página)
 * **Estado Actual:** Activo (mapa en tiempo real con datos actualizados, última verificación: junio 2026).
 * **Requerimiento Urgente:** Por verificar (el mapa muestra necesidades específicas por ubicación como agua 💧, medicinas 💊, alimentos 🍲, refugio 🏠, pero no hay texto explícito sobre requerimientos técnicos del proyecto).
+
+### 13. Terremoto Venezuela
+* **Enlace URL:** `https://terremotovenezuela.app/`
+* **Propósito:** Plataforma web comunitaria orientada a centralizar y visualizar reportes en tiempo real sobre incidentes de emergencia, ubicación de refugios habilitados, solicitudes/ofertas de suministros y registros de personas desaparecidas.
+* **Líder Técnico / Desarrollador:** Allan Odreman, Cristian Mock, Victoria Torres y Andrés G.
+* **Vías de Contacto Directo:** 
+    * 📧 Correo: [info@terremotovenezuela.app](mailto:info@terremotovenezuela.app)
+    * 𝕏 Allan Odreman: [@allanodremans](https://x.com/allanodremans)
+    * 𝕏 Cristian Mock: [@cristianmock](https://x.com/cristianmock)
+    * 𝕏 Victoria Torres: [@vickytorrss](https://x.com/vickytorrss)
+    * 𝕏 Andrés G.: [@andresg747](https://x.com/andresg747)
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** Contactar al equipo técnico a través de su canal de X o correo para coordinar la integración de los datos de refugios y solicitudes de suministros con la red logística y de entrega de Yummy.
