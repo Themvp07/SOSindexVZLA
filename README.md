@@ -19,6 +19,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 6 | [Dona Venezuela](https://www.donavenezuela.com/?lang=es) | Donaciones y redes de pago para canalizar recursos económicos de apoyo ante el sismo. | Activo | *Por verificar* |
 | 7 | [Venezuela Te Busca](https://venezuelatebusca.com/) | Iniciativa ciudadana, voluntaria y sin fines de lucro para ayudar a localizar a las personas desaparecidas tras el terremoto de 2026. | *[PENDIENTE]* | *[PENDIENTE]* |
 | 8 | [ReportaVNZLA](https://reportavnzla.com) | Plataforma ciudadana para registrar y consultar información sobre personas afectadas y recursos relacionados con la emergencia sísmica en Venezuela. | Activo | [mbitupx@gmail.com](mailto:mbitupx@gmail.com) · https://github.com/bitupx00/reportavnzla |
+| 9 | [Rescata Venezuela](https://www.rescatavenezuela.com/) | Plataforma colaborativa de emergencias para reportar, buscar y coordinar ayuda humanitaria durante el terremoto en Venezuela. | Activo | https://www.rescatavenezuela.com/ |
+
 
 
 ---
@@ -95,6 +97,15 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Líder Técnico / Desarrollador:** BitUpX (GitHub: https://github.com/bitupx00)
 * **Vías de Contacto Directo:**
   * **Correo electrónico:** [mbitupx@gmail.com](mailto:mbitupx@gmail.com)
+ 
+### 9. Rescata Venezuela
+* **Enlace URL:** `https://www.rescatavenezuela.com/`
+* **Propósito:** Plataforma de respuesta ante emergencias que centraliza reportes ciudadanos durante el terremoto en Venezuela. Permite reportar solicitudes de ayuda, ofrecer asistencia, registrar personas desaparecidas, niños y niñas, mascotas, pacientes hospitalizados y centros de acopio. Incluye un mapa de emergencias, un foro comunitario de reportes en tiempo real y un directorio de contactos de emergencia nacionales e internacionales. También integra un sistema de búsqueda de personas, filtros por tipo de reporte y herramientas para coordinar ayuda entre ciudadanos y organizaciones.
+* **Líder Técnico / Desarrollador:** Por verificar.
+* **Vías de Contacto Directo:**
+  * Correo de soporte: asoporte@faimlab.com
+* **Estado Actual:** Activo.
+* **Requerimiento Urgente:** Por verificar.
   * **Repositorio GitHub:** https://github.com/bitupx00/reportavnzla
 * **Estado Actual:** Activo.
 * **Requerimiento Urgente:** El proyecto es de código abierto e invita a la comunidad a contribuir mediante su repositorio de GitHub. También promueve la integración de datos mediante su API pública.
