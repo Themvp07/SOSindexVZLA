@@ -32,11 +32,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 19 |  [Mapa de Daños Venezuela](https://terremotovenezuela.com/) | Centraliza información sobre edificios, residencias, hospitales, escuelas, comercios y otras construcciones afectadas por el terremoto del 24 de junio de 2026 en Venezuela. | Por verificar | [@mariangelli](https://x.com/mariangelli) |
 | 20 | [Red de Ayuda Venezuela](https://redayudavenezuela.com/) | Web informativa de incidencias relevantes: búsqueda y registro de desaparecidos, personas en hospitales, reporte de niños, denuncia de irregularidades, puntos de ayuda, voluntariado, centros de acopio, reporte de réplicas/sismos recientes y teléfonos de emergencia. | Activo | Por verificar |
 | 21 | [SOS Venezuela 2026](https://sosvenezuela2026.com/) | Mapa colaborativo en tiempo real del terremoto: reportes de daños/colapsos, búsqueda de desaparecidos, validación de daños, registro de niños, primeros auxilios y canal comunitario. | Activo | [@7uanF](https://x.com/7uanF) |
-
-
-
-
-
+| 22 | [De Mano En Mano](https://www.demanoenmanove.org/) | Tablero público de solo lectura con las necesidades de insumos de hospitales, refugios y comunidades verificadas tras el terremoto del 24 de junio de 2026. | Activo | [@RDelBufalo](https://x.com/RDelBufalo) |
 
 ---
 
@@ -235,3 +231,11 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Vías de Contacto Directo:** [https://x.com/7uanF](https://x.com/7uanF)
 * **Estado Actual:** Activo (la página muestra contadores "En vivo" de reportes, críticos y usuarios en línea).
 * **Requerimiento Urgente:** Por verificar (solo menciona que las donaciones son opcionales para "cubrir costos del servidor", sin especificar una necesidad técnica urgente).
+
+### 22. De Mano En Mano
+* **Enlace URL:** [`https://www.demanoenmanove.org/`](https://www.demanoenmanove.org/)
+* **Propósito:** Tablero público de solo lectura que muestra qué piden hospitales, refugios y comunidades confirmados tras el terremoto. Las necesidades están agrupadas por unidad/institución, para que cualquier persona pueda ver qué hace falta y llevarlo directamente al lugar. Se describe como "herramienta humanitaria sin fines de lucro" con datos compartidos públicamente con aliados. Aclara que el equipo confirma que ciertas personas trabajan en las instituciones listadas, pero no se hace responsable de sus acciones, y que el contacto directo para la entrega de insumos es responsabilidad del donante y el beneficiario.
+* **Líder Técnico / Desarrollador:** Por verificar (la web no muestra nombre/alias en su contenido; autor indicado por el usuario: @RDelBufalo)
+* **Vías de Contacto Directo:** [https://x.com/RDelBufalo](https://x.com/RDelBufalo)
+* **Estado Actual:** Activo
+* **Requerimiento Urgente:** Por verificar (la web no especifica una necesidad técnica propia; solo lista las necesidades de insumos de terceros)
