@@ -20,7 +20,7 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 7 | [Venezuela Te Busca](https://venezuelatebusca.com/) | Iniciativa ciudadana, voluntaria y sin fines de lucro para ayudar a localizar a las personas desaparecidas tras el terremoto de 2026. | *[PENDIENTE]* | *[PENDIENTE]* |
 | 8 | [ReportaVNZLA](https://reportavnzla.com) | Plataforma ciudadana para registrar y consultar información sobre personas afectadas y recursos relacionados con la emergencia sísmica en Venezuela. | Activo | [mbitupx@gmail.com](mailto:mbitupx@gmail.com) · https://github.com/bitupx00/reportavnzla |
 | 9 | [Rescata Venezuela](https://www.rescatavenezuela.com/) | Plataforma colaborativa de emergencias para reportar, buscar y coordinar ayuda humanitaria durante el terremoto en Venezuela. | Activo | https://www.rescatavenezuela.com/ |
-| 10 | [Venezuela Te Necesita](https://www.venezuelatenecesita.com/) | Directorio centralizado y verificado de centros de acopio nacionales e internacionales para ayuda humanitaria tras el terremoto en Venezuela 2026. | Activo | X: [@venezuelatenecesita](https://x.com/RedAyudaVE) |
+| 10 | [Venezuela Te Necesita](https://www.venezuelatenecesita.com/) | Directorio centralizado y verificado de centros de acopio nacionales e internacionales para ayuda humanitaria tras el terremoto en Venezuela 2026. | Activo | X: [@RedAyudaVE](https://x.com/RedAyudaVE) |
 | 11 | [Unidos Venezuela](https://unidosvenezuela.vercel.app/) | Plataforma web para solicitar rescate en emergencia de Venezuela. | Activo | Web:(https://kadent.studio/) |
 | 12 | [Venezuela Terremoto 2026 - Mapa](https://venezuelaterremoto2026.com/mapa) | Mapa interactivo que conecta necesidades de ayuda (agua, medicinas, refugio, rescate) con recursos disponibles tras el terremoto. | Activo | [@_luisald en X](https://x.com/_luisald) |
 | 13 | [Terremoto Venezuela](https://terremotovenezuela.app/) | Reporte de emergencias, refugios, suministros y personas desaparecidas ante el sismo. | Activo | [info@terremotovenezuela.app](mailto:info@terremotovenezuela.app) |
@@ -30,6 +30,9 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 17 | [VEA 2026](https://www.vea2026.com/) | Registro comunitario para ayudar a familias a encontrar personas desaparecidas o confirmar que ya aparecieron tras el terremoto. | Activo | Por verificar |
 | 18 | [REDH AVAPRE](https://redh.avapre.com/) | Directorio de ayuda y mapa interactivo de centros de acopio, hospitales, nodos de internet y necesidades. | Activo | *Por verificar* |
 | 19 |  [Mapa de Daños Venezuela](https://terremotovenezuela.com/) | Centraliza información sobre edificios, residencias, hospitales, escuelas, comercios y otras construcciones afectadas por el terremoto del 24 de junio de 2026 en Venezuela. | Por verificar | [@mariangelli](https://x.com/mariangelli) |
+| 20 | [Red de Ayuda Venezuela](https://redayudavenezuela.com/) | Web informativa de incidencias relevantes: búsqueda y registro de desaparecidos, personas en hospitales, reporte de niños, denuncia de irregularidades, puntos de ayuda, voluntariado, centros de acopio, reporte de réplicas/sismos recientes y teléfonos de emergencia. | Activo | Por verificar |
+
+
 
 
 
@@ -213,5 +216,13 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 * **Propósito:** Centraliza información sobre edificios, residencias, hospitales, escuelas, comercios y otras construcciones afectadas por el terremoto ocurrido en Venezuela el 24 de junio de 2026. Busca ofrecer un punto de consulta donde ciudadanos, familiares, medios y organizaciones puedan conocer el estado de los edificios reportados y registrar nuevos daños estructurales, consolidando la información de la emergencia en un solo lugar.
 * **Líder Técnico / Desarrollador:** mariangelli (@mariangelli)
 * **Vías de Contacto Directo:** [https://x.com/mariangelli](https://x.com/mariangelli)
+* **Estado Actual:** Por verificar
+* **Requerimiento Urgente:** Por verificar
+
+### 2. Red de Ayuda Venezuela
+* **Enlace URL:** [`https://redayudavenezuela.com/`](https://redayudavenezuela.com/)
+* **Propósito:** Web informativa de incidencias relevantes tras la emergencia sísmica. Ofrece: búsqueda y registro de personas desaparecidas; consulta de personas ingresadas en hospitales; reporte de niños; denuncia de irregularidades; localización de puntos de ayuda; registro de voluntariado; ubicación de centros de acopio; reporte de réplicas y sismos recientes; y teléfonos de emergencia.
+* **Líder Técnico / Desarrollador:** Por verificar
+* **Vías de Contacto Directo:** Por verificar
 * **Estado Actual:** Por verificar
 * **Requerimiento Urgente:** Por verificar
