@@ -26,6 +26,8 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
 | 13 | [Terremoto Venezuela](https://terremotovenezuela.app/) | Reporte de emergencias, refugios, suministros y personas desaparecidas ante el sismo. | Activo | [info@terremotovenezuela.app](mailto:info@terremotovenezuela.app) |
 | 14 | [Venezuela Earthquake Map (https://www.sismovenezuela.com/) | Mapa interactivo de visualización de daños, edificios colapsados y puntos de interés como centros de acopio, con detalle por reporte de cada estructura afectada. | Activo | https://github.com/nochinxx/venezuela-earthquake-map |
 | 15 | [Desaparecidos Terremoto Venezuela](https://desaparecidosterremotovenezuela.com/) | Plataforma ciudadana para identificar y reportar personas desaparecidas tras el sismo del 24 de junio de 2026 en Venezuela. | Activo | [developer@theempire.tech](mailto:developer@theempire.tech) |
+| 16 | [Hospitales en Venezuela](https://hospitalesenvenezuela.com/) | App gratuita para encontrar a familiares ingresados en hospitales o centros de salud tras el sismo. | Activo | Por verificar |
+
 
 
 ---
@@ -176,3 +178,11 @@ Este repositorio centraliza los esfuerzos digitales independientes creados por l
   - Instagram: [@terremotovenezuelaredes](https://instagram.com/terremotovenezuelaredes)
 * **Estado Actual:** Activo (plataforma en operación con actualizaciones recientes al 27 de junio de 2026)
 * **Requerimiento Urgente:** Por verificar (el sitio solicita identificar personas en el padrón y reportar desaparecidos, pero no menciona requerimientos técnicos específicos del proyecto)
+
+### 16. Hospitales en Venezuela
+* **Enlace URL:** `https://hospitalesenvenezuela.com/`
+* **Propósito:** Aplicación gratuita diseñada para encontrar a familiares **ingresados en hospitales o centros de salud** tras el sismo en Venezuela. Permite tres acciones principales: (1) Buscar persona por nombre o cédula para confirmar si está registrada y en qué centro, (2) Registrar a una persona ingresada (si trabajas en el centro, tu reporte queda verificado), y (3) Ver centros de salud cercanos ordenados por ubicación con su estado operativo. Redirige a redayudavenezuela.com para casos de personas desaparecidas (no hospitalizadas). Además, cada centro hospitalario muestra información reciente como datos importantes, requerimientos urgentes y últimas actualizaciones en formato de texto rápido tipo publicaciones de X/Twitter.
+* **Líder Técnico / Desarrollador:** Por verificar
+* **Vías de Contacto Directo:** Por verificar (no se encontraron correos electrónicos, GitHub, ni redes sociales explícitas en el sitio). 
+* **Estado Actual:** Activo (22,193 personas registradas, 587 voluntarios activos, 6 encontradas por su familia, 1 dada de alta).
+* **Requerimiento Urgente:** Por verificar (el sitio indica que los datos son ingresados por voluntarios de la comunidad y no garantiza su exactitud, recomendando confirmar llamando al centro antes de trasladar a un paciente).
